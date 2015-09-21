@@ -1,0 +1,12 @@
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/domain/Vote.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/controller/VoteController.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/dto/OptionCount.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/repository/VoteRepository.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/QuickPollApplication.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/repository/OptionRepository.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/controller/ComputeResultController.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/domain/Poll.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/domain/Option.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/dto/VoteResult.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/repository/PollRepository.java
+/Volumes/DATA/projects/spring/rest/quick-poll/src/main/java/com/apress/controller/PollController.java
